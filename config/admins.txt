@@ -1,0 +1,33 @@
+###############################################################################################
+# Basically, ckey goes first. Rank goes after the "="                                         #
+# Case is not important for ckey.                                                             #
+# Case IS important for the rank.                                                             #
+# All punctuation (spaces etc) EXCEPT '-', '_' and '@' will be stripped from rank names.      #
+# Ranks can be anything defined in admin_ranks.txt                                            #
+# NOTE: if the rank-name cannot be found in admin_ranks.txt, they will not be adminned! ~Carn #
+# NOTE: syntax was changed to allow hyphenation of ranknames, since spaces are stripped.      #
+###############################################################################################
+Riki2321gamer = Host
+RiotTrout = Game Master
+LunB = Game Master
+ss13nerd = Game Master
+Kakashiisawsome9 = Game Master
+Weezy F Dende = Game Master
+Lezus_Konrad = Game Master
+DarkShinigamiX = Game Master
+Firesho = Game Master
+Emanresu123 = Game Master
+DioBrandinho = Game Master
+Kauasilvaferreiradia = Game Master
+pauls4eva = Game Master
+Nickmun = Game Master
+Athirson = Game Master
+Jaketheblake = Game Master
+Nepnepper = Game Master
+Meep109 = Game Master
+FrozenGuy5 = Game Master
+Angelsofoscar = Game Master
+The Penatrator = Game Master
+Borksin = Game Master
+Joaquin55 = Game Master
+Zennerx = Game Master
