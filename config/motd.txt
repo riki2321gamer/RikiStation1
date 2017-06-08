@@ -1,0 +1,9 @@
+<!-- Most valid html will work in here, excluding images. -->
+
+
+<h1>Welcome to Riki station 1!</h1>
+
+
+<i>This server is a edited version of /tg/station. Discord : https://discord.gg/g7PFmhp</i>
+
+<i>Source is private unless TG mods want me to make it open source.</i>

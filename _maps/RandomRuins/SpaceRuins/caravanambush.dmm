@@ -1,0 +1,95 @@
+"a" = (/turf/open/space/basic,/area/originalrikistation1)
+"b" = (/obj/structure/lattice/catwalk,/obj/machinery/power/smes/magical,/turf/open/space/basic,/area/originalrikistation1)
+"c" = (/obj/structure/lattice/catwalk,/turf/open/space/basic,/area/originalrikistation1)
+"d" = (/obj/structure/lattice,/turf/open/space/basic,/area/originalrikistation1)
+"e" = (/obj/structure/lattice/catwalk,/obj/machinery/power/terminal{icon_state = "term"; dir = 1},/obj/structure/cable{icon_state = "0-2"; d2 = 2},/turf/open/space/basic,/area/originalrikistation1)
+"f" = (/obj/machinery/power/smes/magical,/obj/structure/lattice/catwalk,/turf/open/space/basic,/area/originalrikistation1)
+"g" = (/obj/structure/lattice/catwalk,/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"; pixel_y = 0},/turf/open/space/basic,/area/originalrikistation1)
+"h" = (/obj/structure/cable{d1 = 1; d2 = 4; icon_state = "1-4"},/obj/structure/lattice/catwalk,/turf/open/space/basic,/area/originalrikistation1)
+"i" = (/obj/structure/lattice/catwalk,/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"; pixel_y = 0},/obj/structure/cable{d1 = 2; d2 = 4; icon_state = "2-4"},/obj/structure/cable{d1 = 2; d2 = 8; icon_state = "2-8"; tag = ""},/turf/open/space/basic,/area/originalrikistation1)
+"j" = (/obj/structure/cable{icon_state = "1-8"},/obj/structure/lattice/catwalk,/turf/open/space/basic,/area/originalrikistation1)
+"k" = (/turf/closed/wall/r_wall,/area/originalrikistation1)
+"l" = (/obj/machinery/door/airlock/silver,/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"; pixel_y = 0},/turf/open/floor/plasteel/white,/area/originalrikistation1)
+"m" = (/obj/item/weapon/twohanded/required/kirbyplants,/turf/open/floor/plasteel/white,/area/originalrikistation1)
+"n" = (/turf/open/floor/plasteel/white,/area/originalrikistation1)
+"o" = (/obj/machinery/light{dir = 1},/turf/open/floor/plasteel/white,/area/originalrikistation1)
+"p" = (/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"; pixel_y = 0},/turf/open/floor/plasteel/white,/area/originalrikistation1)
+"q" = (/turf/closed/wall/mineral/titanium,/area/originalrikistation1)
+"r" = (/obj/machinery/power/apc,/obj/structure/cable{icon_state = "0-2"; d2 = 2},/turf/open/floor/plasteel/white,/area/originalrikistation1)
+"s" = (/obj/item/weapon/storage/box/monkeycubes,/turf/open/floor/mineral/titanium/blue,/area/originalrikistation1)
+"t" = (/obj/item/weapon/storage/box/monkeycubes,/obj/structure/closet/crate/freezer/blood,/turf/open/floor/mineral/titanium/blue,/area/originalrikistation1)
+"u" = (/obj/machinery/light{dir = 1},/obj/item/weapon/storage/box/monkeycubes,/obj/structure/closet/crate/hydroponics,/turf/open/floor/mineral/titanium/blue,/area/originalrikistation1)
+"v" = (/obj/item/weapon/storage/box/monkeycubes,/obj/structure/closet/crate/hydroponics,/turf/open/floor/mineral/titanium/blue,/area/originalrikistation1)
+"w" = (/obj/machinery/light{dir = 4},/turf/open/floor/plasteel/white,/area/originalrikistation1)
+"x" = (/obj/structure/cable{d1 = 1; d2 = 4; icon_state = "1-4"},/turf/open/floor/plasteel/white,/area/originalrikistation1)
+"y" = (/obj/structure/cable{d1 = 4; d2 = 8; icon_state = "4-8"; pixel_x = 0},/turf/open/floor/plasteel/white,/area/originalrikistation1)
+"z" = (/obj/structure/cable{d1 = 1; d2 = 8; icon_state = "1-8"},/turf/open/floor/plasteel/white,/area/originalrikistation1)
+"A" = (/obj/item/weapon/storage/box/monkeycubes,/obj/structure/closet/crate/freezer,/turf/open/floor/mineral/titanium/blue,/area/originalrikistation1)
+"B" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/open/floor/plasteel/white,/area/originalrikistation1)
+"C" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/obj/machinery/portable_atmospherics/canister/toxins,/turf/open/floor/mineral/titanium/blue,/area/originalrikistation1)
+"D" = (/obj/machinery/portable_atmospherics/canister/toxins,/turf/open/floor/mineral/titanium/blue,/area/originalrikistation1)
+"E" = (/obj/structure/closet/crate/radiation,/turf/open/floor/mineral/titanium/blue,/area/originalrikistation1)
+"F" = (/obj/structure/closet/crate/freezer,/turf/open/floor/mineral/titanium/blue,/area/originalrikistation1)
+"G" = (/obj/machinery/light{dir = 4},/obj/structure/closet/crate/freezer,/turf/open/floor/mineral/titanium/blue,/area/originalrikistation1)
+"H" = (/obj/machinery/portable_atmospherics/canister/oxygen,/turf/open/floor/mineral/titanium/blue,/area/originalrikistation1)
+"I" = (/obj/machinery/portable_atmospherics/canister/air,/turf/open/floor/mineral/titanium/blue,/area/originalrikistation1)
+"J" = (/obj/structure/closet/crate/medical,/turf/open/floor/mineral/titanium/blue,/area/originalrikistation1)
+"K" = (/obj/machinery/door/airlock/silver,/turf/open/floor/plasteel/white,/area/originalrikistation1)
+"L" = (/obj/machinery/door/airlock/gold,/turf/open/floor/mineral/titanium/blue,/area/originalrikistation1)
+"M" = (/obj/machinery/light{dir = 4},/obj/item/weapon/twohanded/required/kirbyplants,/turf/open/floor/plasteel/white,/area/originalrikistation1)
+"N" = (/obj/structure/closet/crate/internals,/turf/open/floor/mineral/titanium/blue,/area/originalrikistation1)
+"O" = (/obj/structure/closet/crate/rcd,/turf/open/floor/mineral/titanium/blue,/area/originalrikistation1)
+"P" = (/obj/machinery/light,/turf/open/floor/plasteel/white,/area/originalrikistation1)
+"Q" = (/turf/open/floor/mineral/titanium/blue,/turf/closed/wall/mineral/titanium/interior,/area/originalrikistation1)
+"R" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/shuttle/engine/heater,/turf/open/floor/plating/airless,/area/originalrikistation1)
+"S" = (/obj/structure/shuttle/engine/propulsion{icon_state = "burst_l"},/turf/open/floor/plating/airless,/area/originalrikistation1)
+"T" = (/obj/structure/shuttle/engine/propulsion,/turf/open/floor/plating/airless,/area/originalrikistation1)
+"U" = (/obj/structure/shuttle/engine/propulsion{icon_state = "burst_r"},/turf/open/floor/plating/airless,/area/originalrikistation1)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaabcbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaadddddefedddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaadaaaagegaaaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaadaaaahijaaaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaadaaaaagaaaaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaakkkkkkklkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaakmnonnnpnnnnnonnnnnnnonnnnnnnnnnonnnnmkqqqqqqqqqqqaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaknnnnnnpnnnnnnnrnnnnnnnnnnnnnnnnnnnnnnkqstuvvtuvvqaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaknnnnnnpnnnnnnnpnnnnnnnnnnnnnnnnnnnnnnkqstvvvtvvvqaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaknnnnnnpnnnnnnnpnnnnnnnnnnnnnnnnnnnnnwkqstvvvtvvvqaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaknnnnnnxyyyyyyyznnnnnnnnnnnnnnnnnnnnnnkqsAAvvAAvvqaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaakBnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnkqCDEFGHEFGqaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaknnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnmkqIIEJJHEJJqaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaknnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnKLIIEJJHEJJLaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaknnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnMkqNNNOJNNOJqaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaakmnPnnnnnnnnPnnnmnnnnnnnnnnnnnnnnnnnnnkqQNNOHNNOQqaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaakkkkkkkkkkkkkkkknnnnnnnnnnnnnnnnnnnnnnkqqRRRRRRRqqaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaknnnnnnnnnnnnnnnnnnnnnnkaSTTTUTTTUaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaknnnnnnnnnnnnnnnnnnnnnnkaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaknnnnnnnnnnnnnnnnnnnnnnkaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaakBnnnnnnnnnnnnnnnnnnnnnkaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaknnnnnnnnnnnnnnnnnnnnnwkaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaknnnnnnnnnnnnnnnnnnnnnnkaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaknnnnnnnnnnnnnnnnnnnnnnkaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaknnnnnnnnnnnnnnnnnnnnnnkaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaakmPnnnnnnnnPnnnnnnnPnnmkaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaakkkkkkkkkkkkkkkkkkkkkkkkaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\BYOND\bin\dreamdaemon.exe" C:\Users\RICARDOALEJANDRO\Desktop\rs1-master\tgstation.dmb -public -trusted -ports 25566
